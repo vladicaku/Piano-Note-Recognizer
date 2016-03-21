@@ -1,0 +1,30 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\bin\Debug\Note Recognizer.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\bin\Debug\Note Recognizer.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\bin\Debug\Note Recognizer.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\obj\Debug\Note_Recognizer.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\obj\Debug\Note_Recognizer.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\bin\Debug\NAudio.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\bin\Debug\NAudio.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\Note Recognizer\Note Recognizer\obj\Debug\Note_Recognizer.DSP_Engine.Plot.resources
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\bin\Debug\Note Recognizer.exe.config
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.exe
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.pdb
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\bin\Debug\Note Recognizer.exe
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\bin\Debug\Note Recognizer.pdb
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\bin\Debug\NAudio.dll
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\bin\Debug\NAudio.xml
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.csprojResolveAssemblyReference.cache
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note_Recognizer.DSP_Engine.Plot.resources
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note_Recognizer.Form1.resources
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note_Recognizer.Properties.Resources.resources
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.csproj.GenerateResource.Cache
+D:\Finki\sm6\dsp\Note Recognizer\Note Recognizer\obj\Debug\Note_Recognizer.Settings.resources
+D:\Finki\SM6\dsp\Proekt\Note Recognizer\Note Recognizer\bin\Debug\Note Recognizer.exe.config
+D:\Finki\SM6\dsp\Proekt\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.exe
+D:\Finki\SM6\dsp\Proekt\Note Recognizer\Note Recognizer\obj\Debug\Note Recognizer.pdb
